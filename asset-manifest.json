@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/babycakes-project/static/css/main.1bc450ad.css",
-    "main.js": "/babycakes-project/static/js/main.81cf4066.js",
-    "static/js/453.7d815aab.chunk.js": "/babycakes-project/static/js/453.7d815aab.chunk.js",
-    "static/media/logo.png": "/babycakes-project/static/media/logo.528c839d2c27a977ce03.png",
-    "static/media/image19.jpeg": "/babycakes-project/static/media/image19.2cb06f8c64cc7e16044c.jpeg",
-    "static/media/image12.png": "/babycakes-project/static/media/image12.48693238fdd9f126cdcb.png",
-    "index.html": "/babycakes-project/index.html",
-    "main.1bc450ad.css.map": "/babycakes-project/static/css/main.1bc450ad.css.map",
-    "main.81cf4066.js.map": "/babycakes-project/static/js/main.81cf4066.js.map",
-    "453.7d815aab.chunk.js.map": "/babycakes-project/static/js/453.7d815aab.chunk.js.map"
+    "main.css": "/static/css/main.1bc450ad.css",
+    "main.js": "/static/js/main.7fec7c25.js",
+    "static/js/453.7d815aab.chunk.js": "/static/js/453.7d815aab.chunk.js",
+    "static/media/logo.png": "/static/media/logo.528c839d2c27a977ce03.png",
+    "static/media/image19.jpeg": "/static/media/image19.2cb06f8c64cc7e16044c.jpeg",
+    "static/media/image12.png": "/static/media/image12.48693238fdd9f126cdcb.png",
+    "index.html": "/index.html",
+    "main.1bc450ad.css.map": "/static/css/main.1bc450ad.css.map",
+    "main.7fec7c25.js.map": "/static/js/main.7fec7c25.js.map",
+    "453.7d815aab.chunk.js.map": "/static/js/453.7d815aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bc450ad.css",
-    "static/js/main.81cf4066.js"
+    "static/js/main.7fec7c25.js"
   ]
 }
