@@ -22,7 +22,7 @@ export default function App() {
       <section id="about" className="section fade-in">
         <h3>About Us</h3>
         <p>
-          We are a family-owned bakery serving the Port Arthur community with love and freshly baked treats. Our passion
+          We are a family-owned bakery serving the Golden Triangle area with love and freshly baked treats. Our passion
           for quality ingredients and traditional recipes is what makes every bite memorable.
         </p>
       </section>
@@ -46,9 +46,9 @@ export default function App() {
 
       <section id="contact" className="section fade-in">
         <h3>Contact Us</h3>
-        <p>Email: portarthurbakery@example.com</p>
-        <p>Phone: (409) 123-4567</p>
-        <p>Address: 123 Main St, Port Arthur, TX</p>
+        <p>Email: babycakesbakery2024@gmail.com</p>
+        <p>Phone: (409) 344-4028</p>
+        <p>Address: Golden Triangle, TX</p>
       </section>
     </div>
   );
